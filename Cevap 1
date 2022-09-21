@@ -1,0 +1,31 @@
+
+
+ 
+public static void main(String[] args) {
+ 
+int not=0;
+public static void main(String[] args) {
+System.out.println("Lütfen Notunuzu Girin");
+
+} catch (NumberFormatException e) 
+ 
+if(not<=35)
+{
+System.out.println("FF");
+}
+else if(not<=50)
+{
+System.out.println("DC");
+}
+else if (not <=70)
+{
+System.out.println("BB");
+}
+else if (not <=100)
+{
+System.out.println("AA");
+}
+else if (not < 85)
+ 
+}
+ 
