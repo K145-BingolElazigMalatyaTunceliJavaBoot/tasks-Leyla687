@@ -1,0 +1,46 @@
+# tasks-Leyla687
+tasks-Leyla687 created by GitHub Class
+package ikincihafta.odev;
+public class car{
+public statik void main(string [args]){
+Araba araba = new Araba();
+araba.modeli="SUV, HATCBAG , SEDAN";
+araba.ozellik="bagaj, renk, kapasite, kiralama";
+public class Araba{
+  public String modeli;
+1usage
+public string ozellik;
+public araba (){
+public String color;
+public class Suv extendes Car{
+ public String color;
+public class Sedan extendes Car{
+ public String color;
+public Hatcback extendes Car{
+ public String color;
+public class rentACarService{
+public interface RentACarService{
+public void dailyRental();
+public void monthlyRental();
+public class Suv extendes Carİmplements RentACarService{
+@verride
+public void dailyRental(){
+@verride
+public void monthlyRental(){
+blic class Sedan extendes Carİmplements RentACarService{
+@verride
+public void dailyRental(){
+@verride
+public void monthlyRental(){
+blic class Hackback extendes Carİmplements RentACarService{
+@verride
+public void dailyRental(){
+@verride
+public void monthlyRental(){
+Systm.out println(aylik kiralama yapamazsiniz.");
+
+
+}
+Public void araba kirala (string isim)
+return araba ;
+}
