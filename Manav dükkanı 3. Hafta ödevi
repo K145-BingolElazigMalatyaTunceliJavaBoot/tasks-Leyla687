@@ -1,0 +1,31 @@
+# tasks-Leyla687
+tasks-Leyla687 created by GitHub Classroom
+public class manav.dükkani{
+manav.dukkani="miktari";
+manav.dükkani="fiyati";
+public class Client{
+ public Static void main (int []args)
+  elma elma = new elma
+   elma miktari="100kg";
+   elma fiyati="5tl";
+  armut armut =new armut
+    armut miktari="100kg";
+    armut fiyati="8tl";
+  kiraz kiraz =new kiraz
+    kiraz miktari="100kg";
+    kiraz fiyati="6tl";
+public class oda.1{
+oda.1="elma"
+public class oda.2{
+oda.2="armut"
+public class oda.3
+oda.3="kiraz"
+FiyatbelirlemeService fiyatbelirlemeService= new fiyatbelirlemeservice();
+Employe employe= new elma();
+employe.setfiyati(5tl);
+Employe employe= new armut();
+employe.setfiyati(8tl);
+Employe employe= new kiraz();
+employe.setfiyati(6tl);
+
+
