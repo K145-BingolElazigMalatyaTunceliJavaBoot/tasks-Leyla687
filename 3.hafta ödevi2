@@ -1,0 +1,51 @@
+# tasks-Leyla687
+tasks-Leyla687 created by GitHub Classroom
+public class HavaYoluSirketleri {
+  public static String sirketAdi;
+  public static double businessUcret;
+  public static double ekonomiUcret;
+public String SirketAdi(){
+     return "sirket";
+}
+public double BusinessUcret()
+   return 0;
+}
+public double EkonomiUcret()
+   return0;
+}
+public satatic voidmain(String[]args){
+   THY thy =new THY ();
+   Pegasus pegasus =new Pegasus ();
+   AnadoluJet anadolujet =new AnadoluJet ();
+   Scanner input =new Scanner (System.in);
+while (true{
+   System.out.print("Hangi hava yolu sirketini seciyorsunuz?\n"+"1-"+thy.SirketAdi()+
+   "\n"+"2-"+pegasus SirketAdi()+"\n"+"3-"anadolujet.SirketAdi();
+   SirketAdi()+"\n"(Seciminiz);
+   int secim =input.nextInt();
+   if (secim>0 && secim<4){
+      switch (secim) {
+         case1:
+           Systmout.println ("\nBilgilendirme");
+           thy.yemekServisi();
+           thy.Islemler();
+           break;
+          case2 :
+           Systmout.println ("\nBilgilendirme");
+           pegasus.yemekServisi();
+           pegasus.Islemler();
+           break;
+           case3 :
+           Systmout.println ("\nBilgilendirme");
+           anadolujet.yemekServisi();
+           anadolujet.Islemler();
+           break;
+   else{
+      System.out.prntln("Gecersiz bir sayi girdiniz ");
+}
+   Sysetem.out.print("\n Tekrar deneyin ! ");
+   String exit =input.next();
+   if (exit.equalss ("0")) {
+      break;
+   System.out.println (Gule gule!);
+
