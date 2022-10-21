@@ -1,0 +1,57 @@
+# tasks-Leyla687
+tasks-Leyla687 created by GitHub Classroom
+public class Yapilacaklar.Listesi{
+public class haftanin.günleri{
+private String pazartesi;
+private String sali;
+private String carsamba;
+private String persembe;
+private String cuma;
+private String cumartesi;
+private String pazar;
+  Systm.out.print("Bir gün veya hafta seciniz!\n"+"0-"+hafta()+
+  "1-"pazartesi()+"\n"+"2-"sali()"\n"+"3-"carsamba()"\n"+"4-"persembe()"\n"+"5-"cuma()
+  "\n"+"6-"cumartesi()"\n"+"7-"pazar();
+hafta();
+hafta()+"\n"(Seciminiz);
+int secim = input.nextInt();
+if (secim>0&&secim<8){
+  switch (secim) {
+  case1;
+      Systmout.println(\nNotlar");
+      pazartesi.notyaz ();
+      pazartesi.notcagir();
+      break;
+      case2;
+      Systmout.println(\nNotlar");
+      sali.notyaz ();
+      sali.notcagir();
+      break;
+      case3;
+      Systmout.println(\nNotlar");
+      carsamba.notyaz ();
+      carsamba.notcagir();
+      break;
+      case4;
+      Systmout.println(\nNotlar");
+      persembe.notyaz ();
+      persembe.notcagir();
+      break;
+      case5;
+      Systmout.println(\nNotlar");
+      cuma.notyaz ();
+      cuma.notcagir();
+      break;
+      case6;
+      Systmout.println(\nNotlar");
+      cumartesi.notyaz ();
+      cumartesi.notcagir();
+      break;
+      case7;
+      Systmout.println(\nNotlar");
+      pazar.notyaz ();
+      pazar.notcagir();
+      break;
+ else{
+     Systemoutprintln("yanlistercih");
+ 
